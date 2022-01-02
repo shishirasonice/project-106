@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: white;
+}
+
+.header_div
+{
+    background: lightblue;
+    color: teal;
+    font-family: fantasy;
+}
+
+.header_div p{
+    font-family: monospace;
+    color: teal;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: monospace;
+    width: 150px;
+    font-weight: bold;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: teal;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: whitesmoke;
+    line-height: 4;
+    text-align: center;
+}
